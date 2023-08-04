@@ -1,2 +1,2 @@
 # decodificador
-Projeto básio de codificador/decodificador
+Projeto básico de codificador/decodificador
